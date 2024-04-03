@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+}
+form{
+    background-color: black;
+    color: white;
+    width: fit-content;
+}
+.button {
+    width: 33px;
+    height: 25px;
+    margin: 5px;
+    border-radius: 5px;
+}
+#screen {
+    width: 200px;
+    height: 30px;
+}
